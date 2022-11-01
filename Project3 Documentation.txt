@@ -1,0 +1,6 @@
+This program takes in an input matrix and does a variety of 
+calculations to it, including finding it's eigenvalues and 
+eigenvectors. The approach I took to this was just solving it
+one step at a time, and writing down pseudocode for each step to 
+help me plan out the coding. I used a lot of references to 
+tutorialspoint and other online resources
